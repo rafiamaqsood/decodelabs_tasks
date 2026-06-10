@@ -7,11 +7,11 @@ Each task demonstrates a different core concept in Artificial Intelligence and M
 
 ## Project Structure
 decodelabs_tasks/
-│
-├── Task 1 - Rule Based Chatbot
-├── Task 2 - Titanic Classification Model
-├── Task 3 - Movie Recommendation System
-├── Task 4 - Image Recognition (Cat vs Dog)
+
+- Task 1 - Rule Based Chatbot  
+- Task 2 - Titanic Classification Model  
+- Task 3 - Movie Recommendation System  
+- Task 4 - Image Recognition (Cat vs Dog)
 
 
 ---
